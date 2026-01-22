@@ -21,7 +21,7 @@
 
 
 ### 🚧 Projects (Growing 🚀)
-🔹 **AI Task Assistant **  
+🔹 **AI Task Assistant**  
 > A Python-based bot designed to help with everyday tasks using AI logic.
 
 🔹 **Web Mini Projects**  
