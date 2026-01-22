@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Welcome to my GitHub!
+🚀 About Me
 
-<!--
-**FrostyDot512/FrostyDot512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Anwaar Batala aka @FrostyDot
 
-Here are some ideas to get you started:
+💡 Passionate about coding because I love turning ideas into real-life solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in Java, HTML, and a bit of CSS
+
+🐍 Currently enhancing my skills in Python
+
+🤖 Goal: build real-world projects like apps and AI-powered tools, including bots that help with everyday tasks
+
+🛠️ Always looking to grow, experiment, and push ideas further
+
+📬 Reach me at: anwaarnbatala@gmail.com
+
+⚽ Fun facts: I love playing football, anime, and bringing smiles to people’s faces
