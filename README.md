@@ -7,7 +7,7 @@
 - 🐍 Currently enhancing my skills in **Python**
 - 🤖 Goal: build **real-world projects**, including apps and **AI-powered bots** that help with everyday tasks
 - 📬 Reach me at: **anwaarnbatala@gmail.com**
-- ⚽ Fun facts: I love **playing football**, **anime**, and **bringing smiles to people’s faces**
+- ⚽ Fun facts: I love **playing football**, **anime**, and **bringing smiles to people’s faces and currently working on a comic book**
 
 ---
 
