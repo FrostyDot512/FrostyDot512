@@ -25,7 +25,7 @@
 > A Python-based bot designed to help with everyday tasks using AI logic.
 
 🔹 **Web Mini Projects**  
-> Simple HTML & CSS projects to practice layouts, responsiveness, and clean UI.
+> Simple HTML, CSS & A little bit of React (TypeScript) projects to practice layouts, responsiveness, and clean UI.
 
 _(More projects coming soon — stay tuned 👀)_
 
