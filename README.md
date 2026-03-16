@@ -40,4 +40,4 @@ _(More projects coming soon — stay tuned 👀)_
 
 ### 🤝 Let’s Connect
 - 📧 Email: **anwaarnbatala@gmail.com**
-- 🌟 Always open to learning, collaboration, and new challenges
+- 🌟 Always open to learning, collaboration, and new challenges.
