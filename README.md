@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - Hi, I’m **Anwaar Batala** aka **@FrostyDot**
-- 💡 Passionate about coding — I love turning ideas into real-life solutions
+- 💡 Passionate about coding — I love turning ideas into real-life solutions.
 - 💻 Skilled in **Java**, **HTML**, and a bit of **CSS**
 - 🐍 Currently enhancing my skills in **Python**
 - 🤖 Goal: build **real-world projects**, including apps and **AI-powered bots** that help with everyday tasks.
